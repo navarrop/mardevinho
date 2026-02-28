@@ -17,30 +17,30 @@ aboutStats:
     label: Análises Sinceras
   - number: Top
     label: Custo-Benefícios
-servicesTitle: O Que Você Vai Encontrar
-servicesSubtitle: Conteúdo prático sobre tecnologia moderna e estratégia digital
+servicesTitle: O Que Você Vai Encontrar Por Aqui
+servicesSubtitle: Conteúdo prático para transformar você em um expert na hora de escolher sua próxima garrafa.
 services:
-  - title: JAMstack & Astro
-    description: Como construir sites ultrarrápidos com a arquitetura moderna que está substituindo o WordPress.
+  - title: Seleções Exclusivas
+    description: Os melhores vinhos tintos, brancos, rosés e espumantes separados por ocasião, uva e faixa de preço.
     icon: ⚡
     url: /blog
-  - title: Performance Web
-    description: Core Web Vitals, otimização de imagens e tudo que precisa saber para ranquear no Google.
+  - title: Harmonizações Perfeitas
+    description: Descubra qual é o vinho ideal para acompanhar massas, carnes, queijos ou aquele jantar especial.
     icon: 🚀
     url: /blog
-  - title: Deploy Gratuito
-    description: Como hospedar seu site na Vercel, Cloudflare Pages ou Netlify sem pagar nada.
+  - title: Achados e Custo-Benefício
+    description: Indicações de e-commerces e garrafas que entregam uma qualidade muito superior ao valor cobrado.
     icon: ☁️
     url: /blog
-  - title: CMS Moderno
-    description: Gerencie seu conteúdo sem banco de dados, com arquivos Markdown e Git como fonte da verdade.
+  - title: Guias para Iniciantes
+    description: Não entende nada de taninos, uvas ou safras? Nossos guias rápidos vão te ensinar o essencial sem complicação.
     icon: 📝
     url: /blog
-  - title: SEO Técnico
-    description: Sitemap, meta tags, Open Graph e tudo que um site moderno precisa para aparecer no Google.
+  - title: Acessórios & Adegas
+    description: Reviews detalhados de taças, saca-rolhas, decanters e adegas climatizadas para completar seu bar.
     icon: 🔍
     url: /blog
-  - title: Empreendedorismo Digital
-    description: Estratégias para monetizar sua presença online e transformar conteúdo em negócio.
+  - title: Ofertas e Descontos
+    description: Encontramos os melhores preços em lojas parceiras de confiança para você abastecer sua adega com segurança.
     icon: 💡
     url: /blog
