@@ -1,6 +1,6 @@
-logoType: text
+logoType: image
 logoText: MARDEVINHO
-logoImage: ""
+logoImage: /images/general/1772312926923-Gemini-Generated-Image-ll9d24ll9d24ll9d.png
 items:
   - label: Home
     href: /
