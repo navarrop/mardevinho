@@ -6,17 +6,17 @@ heroCtaUrl: /blog
 heroImage: https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=700&fit=crop&auto=format
 socialProofTitle: Tecnologias que Utilizamos
 clientLogos: []
-aboutTitle: Sobre Este Blog
-aboutSubtitle: Feito com Astro, hospedado na Vercel — rápido, seguro e de graça.
-aboutContent: Este blog foi construído com a stack JAMstack moderna — Astro como framework, Vercel para deploy e um CMS customizado para gerenciar o conteúdo. O resultado é um site que carrega em milissegundos, está seguro por padrão e custa zero de hospedagem. Aqui você encontra conteúdo sobre como construir sua presença digital da mesma forma.
+aboutTitle: Sobre o Mar de Vinho
+aboutSubtitle: A sua bússola no mundo dos vinhos — escolhas inteligentes e paladar refinado.
+aboutContent: O Mar de Vinho nasceu da paixão por compartilhar boas taças. Nosso objetivo é desmistificar o mundo do vinho, trazendo resenhas honestas, indicações de rótulos premiados e achados incríveis. Através das nossas indicações de parceiros confiáveis, ajudamos você a escolher o melhor vinho com segurança, comodidade e os melhores preços da internet.
 aboutImage: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=600&fit=crop&auto=format
 aboutStats:
-  - number: 8+
-    label: Artigos Publicados
+  - number: 100+
+    label: Rótulos Avaliados
   - number: 100%
-    label: Open Source
-  - number: < 1s
-    label: Tempo de Carregamento
+    label: Análises Sinceras
+  - number: Top
+    label: Custo-Benefícios
 servicesTitle: O Que Você Vai Encontrar
 servicesSubtitle: Conteúdo prático sobre tecnologia moderna e estratégia digital
 services:
