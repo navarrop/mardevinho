@@ -1,10 +1,8 @@
 heroTitle: Entre em Contato
 heroSubtitle: Tem uma dúvida, sugestão ou quer trocar uma ideia? Manda uma mensagem — respondo todos os contatos.
-email: seuemail@exemplo.com
-phone: +55 (11) 9 9999-9999
-address: |-
-  Sua Cidade, seu Estado
-  Brasil
+email: contato@4gin.com.br
+phone: +55 (19) 99682-9092
+address: R. Jacy Teixeira de Camargo, 940 – Jardim do Lago – Campinas – SP – 13050-913
 socialLinks:
   - platform: LinkedIn
     url: https://linkedin.com
@@ -17,5 +15,5 @@ socialLinks:
     icon: 🐦
 formTitle: Envie sua Mensagem
 formSubmitText: Enviar Mensagem
-formSuccessMessage: Mensagem enviada com sucesso! Entrarei em contato em breve. Obrigado!
+formSuccessMessage: Mensagem enviada com sucesso! Entraremos em contato em breve. Obrigado!
 ctaTitle: Vamos conversar?
